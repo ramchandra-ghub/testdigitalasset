@@ -1,0 +1,13 @@
+{
+    "assetName": "testasset1",
+    "description": "This is a test asset",
+    "topics": [
+        "ens-machinelearning",
+        "test1",
+        "test2",
+        "ens-asset"
+    ],
+    "associations": [
+        "testurl"
+    ]
+}
